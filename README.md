@@ -16,7 +16,7 @@ npm install -g snail
 ## Update
 
 ``` bash
-npm update -g
+npm update -g snail
 ```
 
 ## Getting Started
@@ -43,6 +43,10 @@ the command mean:
 * bandwidth_up=160 kbps
 * delay=400ms
 * port=8080
+
+##Default
+- 2G snail 80 80 800 199105
+- 3G snail 160 160 400 199105
 ## Next Step
 
 add windows.performance.timing  statistics
