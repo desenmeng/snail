@@ -38,10 +38,11 @@ simulate what you want:
 ``` bash
 snail 160 170 400 8080
 ```
-bandwidth_down 160 kbps
-bandwidth_up  160 kbps
-delay 400ms
-port 8080
+the command mean:
+* bandwidth_down=160 kbps
+* bandwidth_up=160 kbps
+* delay=400ms
+* port=8080
 ## Next Step
 
 add windows.performance.timing  statistics
