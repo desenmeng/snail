@@ -55,7 +55,7 @@ the command mean:
 ## Contributors
 * [@mdemo](http://weibo.com/mdemo)
 * [commenthol](https://github.com/commenthol)
-* liuchen
+* [angeloce](https://github.com/angeloce)
 
 ##License
 (The MIT License)
