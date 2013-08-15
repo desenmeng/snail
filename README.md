@@ -48,9 +48,9 @@ the command mean:
 - 2G snail 80 80 800 9105
 - 3G snail 160 160 400 9105
 
-## Next Step
+## log
 
-add windows.performance.timing  statistics
+2013-8-15 add windows.performance.timing  statistics
 
 ## Contributors
 * [@mdemo](http://weibo.com/mdemo)
