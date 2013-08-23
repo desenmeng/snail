@@ -1,6 +1,6 @@
 {
     "name": "snail",
-    "version": "0.2.0",
+    "version": "0.2.1",
     "description": "Simulate Wireless Network , powered by Node.js.",
     "preferGlobal": true,
     "bin": {
